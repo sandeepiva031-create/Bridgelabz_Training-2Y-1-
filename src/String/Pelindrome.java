@@ -7,6 +7,8 @@ public class Pelindrome {
 
       if(start>=end ){
           return true;
+
+
       }
 
         if(name.charAt(start)!=name.charAt(end)) {

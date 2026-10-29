@@ -16,6 +16,7 @@ public class RemoveElement {
     }
 
     static void main(String[] args) {
+
         System.out.println(remove("madam",0));
     }
 }
